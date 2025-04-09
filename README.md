@@ -46,7 +46,5 @@
 </span>
 
 <h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=conettoovando&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/conettoovando)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=conettoovando&theme=material-palenight)](https://github.com/conettoovando)
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=conettoovando&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=conettoovando&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="ovi" width="410" /></p>
