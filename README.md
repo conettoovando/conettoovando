@@ -2,7 +2,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/HzPtbOKyBoBFsK4hyc.webp" />
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+### ***About me ...***
 
 **<h3 align="center">Computer Engineer | FullStack Developer </h3>**
 
